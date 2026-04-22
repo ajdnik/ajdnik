@@ -1,5 +1,3 @@
-# Rok Ajdnik
-
 **Director of Software Engineering** @ [Plume](https://www.plume.com)
 
 Building infrastructure and APIs. Curious about performance, compilers, and systems that scale. SCUBA diver. Electronics tinkerer.
