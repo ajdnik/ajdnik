@@ -11,5 +11,5 @@ Building infrastructure and APIs. Curious about performance, compilers, and syst
 - [Zork: The Great Port](https://rokajdnik.com/zork-the-great-port/)
 
 ---
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajdnik&show_icons=true&theme=default&hide_border=true" alt="Ajdnik's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajdnik&layout=compact&theme=default&hide_border=true" /> |
+| <img align="center" src="https://github-stats-extended.vercel.app/api?username=ajdnik&show_icons=true&theme=default&hide_border=true" alt="Ajdnik's github stats" /> | <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ajdnik&layout=compact&theme=default&hide_border=true" /> |
 | ------------- | ------------- |
